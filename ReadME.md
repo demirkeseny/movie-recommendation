@@ -29,7 +29,7 @@ The data that I used included below CSV files. They are all available under the 
 
 IMDB uses a weighted rating formula for the movies. This formula is very helpful in order to understand the actual ratings of the movies. Thanks to the below calculation we also take into consideration the amount of reviews on the movie. 
 
-$$ (WR)=(v/(v+m))R+(m/(v+m))C $$
+(WR)=(v/(v+m))R+(m/(v+m))C
 
 - R = average for the movie (mean) = (Rating)
 - v = number of votes for the movie = (votes)
