@@ -1,6 +1,6 @@
 # Building a Recommender System
 
-## 1. Summary
+## 1. Summary 
 
 The goal of this project is to build a recommendation engine for the users. In this context, there are plenty of different ways to build this engine. It might depend on the user habits, contents or genres. 
 
